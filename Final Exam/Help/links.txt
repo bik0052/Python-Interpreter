@@ -1,0 +1,6 @@
+How design pattern solve desing problems
+https://www.docsity.com/en/how-dp-solves-the-problem/2184784/
+
+
+Powerpoint
+http://webdocs.cs.ualberta.ca/~sorenson/cmput401/lectures/MoreDesignPatterns/sld002.htm

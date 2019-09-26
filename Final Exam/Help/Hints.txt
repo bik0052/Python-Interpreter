@@ -1,0 +1,27 @@
+There are 15 marks for discussion under the headings extracted from Chapter 1 & 6 of the book of “Design Patterns: Elements of Reusable Object-Oriented Software”. 
+Use those headings to construct your answer to this question. One mark for each heading.
+
+Finding appropriate objects
+Determining object granularity
+Specifying object interfaces
+Specifying object implementation
+Class versus Interface inheritance
+Programming to an interface, not an implementation
+Inheritance versus Composition
+Delegation
+Inheritance versus parameterized types
+Relating run-time and compile-time structures
+Designing for change
+A common design vocabulary: Is a common design vocabulary used, how is used, what is the effect of using?
+A documentation and learning aid
+An adjunct to existing methods
+A target for refactoring
+ 
+
+5 marks for double-ups (2 different comments under one heading) or for overall evaluative comments based on design principles and ideas of Object-Oriented Programming (OOP) your own experience and understanding on design patterns.
+
+You need to link your evaluation and discussion with your code. Simply listing general statements of OOP principles and ideas without customizing them for your particular code will not be awarded any marks.
+
+Please use the line numbers and the file name in order to clearly state which piece of the code you are talking about in your answers.
+
+Long paragraphs are not necessary. Instead, bullet points are preferred.
